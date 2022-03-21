@@ -1,0 +1,10 @@
+/* Navigation Section */
+.nav-item{
+    padding: 0 30px;
+    font-weight: bold;
+}
+body{
+    background:url("../doctor_title-page.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
